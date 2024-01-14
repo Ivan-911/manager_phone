@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" modified="2024-01-13T09:43:01.268Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.714 YaBrowser/23.11.1.714 Yowser/2.5 Safari/537.36" etag="4wtWaJpII5mrZlvHoWZV" version="22.0.0" type="device">
+  <diagram name="Страница — 1" id="nj7LVNlGfxP1b2TEYxd-">
+    <mxGraphModel dx="664" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-2" target="7hmvmr52Be_bYLwKd_OW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-2" value="user_choice = Запрос пользователя в каком режиме&lt;br&gt;&amp;nbsp;запустить&lt;br&gt;&amp;nbsp;программу(телефонный справочник или менеджер контактов) или Enter(exti)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-3" target="7hmvmr52Be_bYLwKd_OW-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-3" value="user_choice" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="265" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.445;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-1" target="7hmvmr52Be_bYLwKd_OW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-8" value="Режим менеджер&lt;br&gt;&amp;nbsp;контактов" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-10" value="&lt;h1&gt;задание&lt;/h1&gt;&lt;p&gt;Дополнить справочник возможностью копирования данных из одного файла в другой. Пользователь вводит номер строки, которую необходимо перенести из одного файла в другой.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-11" target="7hmvmr52Be_bYLwKd_OW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-11" value="contact_choice = Добро пожаловать в менеджер контактов!!&lt;br&gt;Что я умею:&lt;br&gt;1) Добавлю контакт в вашу телефонную книгу&lt;br&gt;2) Поделюсь вашим контактом&lt;br&gt;3)Изменю режим на телефонный справочник&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-12" target="7hmvmr52Be_bYLwKd_OW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-12" target="7hmvmr52Be_bYLwKd_OW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-12" value="contact_choice" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-14" value="def copy_phone_to_file&lt;br&gt;принимает номер строки и режем&amp;nbsp; копирует сроку в контакты пользователя или общие&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="740" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-15" target="7hmvmr52Be_bYLwKd_OW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-15" value="def read_phone&lt;br&gt;принимает значение номер режима 1 или 2&lt;br&gt;Отображает информацию с метаданными(Номер строки)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="460" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-16" target="7hmvmr52Be_bYLwKd_OW-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-16" value="number_row= Ожидаю номер строки или вы можете вернутся в главное меню нажав&lt;br&gt;&amp;nbsp;Enter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="379" y="610" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-20" value="выбор 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-21" value="выбор 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="548" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-24" value="Enter ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-24" target="7hmvmr52Be_bYLwKd_OW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="748" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-24" target="7hmvmr52Be_bYLwKd_OW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="780" />
+              <mxPoint x="800" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-29" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="748" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-30" target="7hmvmr52Be_bYLwKd_OW-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-30" value="def continue_or_not&lt;br&gt;принимает режим и строку&lt;br&gt;input = ваша операция выполнена, желаете продолжить? Нажмите 1 для продолжения или Enter для выхода" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="740" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-31" target="7hmvmr52Be_bYLwKd_OW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-31" value="Enter?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.958;entryY=0.436;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-14" target="7hmvmr52Be_bYLwKd_OW-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-35" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="468" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-31" target="7hmvmr52Be_bYLwKd_OW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="650" />
+              <mxPoint x="40" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-39" value="Finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-41" value="Enter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.039;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-3" target="7hmvmr52Be_bYLwKd_OW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-44" value="Старая программа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7hmvmr52Be_bYLwKd_OW-3" target="7hmvmr52Be_bYLwKd_OW-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="370" />
+              <mxPoint x="168" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7hmvmr52Be_bYLwKd_OW-46" value="телефонный &lt;br&gt;справочник" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
